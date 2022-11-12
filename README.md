@@ -1,2 +1,2 @@
 # LightDelights
-Mesmerizing interactive installations.
+Mesmerizing interactive installations for Meta Quest Pro.
